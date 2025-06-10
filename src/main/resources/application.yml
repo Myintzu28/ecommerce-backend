@@ -15,4 +15,8 @@ spring:
       ddl-auto: update
 
 server:
-  port: 8080
+  port: 8088
+
+swagger:
+  username: ENC(hvxnu80NBuGFZ/pSKGZYTg==)
+  password: ENC(KlY0SRrc+s5e+fnLBcZknpF497nxnzEF)
